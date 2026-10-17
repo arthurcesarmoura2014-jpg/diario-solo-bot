@@ -5,7 +5,8 @@ import asyncio
 
 # === CONFIGURAÇÃO DO BOT ===
 # Insira o Token do seu Bot entre as aspas abaixo (Passo 4 do guia anterior)
-TOKEN = 'Token do seu Bot"
+TOKEN = MTU2MDg2Njc1OTI3NDEzOTY2OA.Gt0v5w.W_MmmbCzScmi0VA3tYHUQWYFWY9q0K8lmnF3KI
+
 
 # Lista de todos os horários do seu Diário Solo (Tirei das fotos que você mandou)
 HORARIOS_DIARIO = [
